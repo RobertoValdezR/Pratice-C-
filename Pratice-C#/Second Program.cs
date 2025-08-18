@@ -23,25 +23,37 @@ Display a small table in console using string formatting */
 //  First Exercise:  String interpolation
 
 // Declare Variable
- 
- string name;
-name = "Roberto";
-string sport;
-sport = "Soccer";
+class SecondProgram
+{
+    static void Main()
+    {
+        //  First Exercise:  String interpolation
 
-// Show messages with interpolation.
+        // Declare Variable
 
-Console.WriteLine($"Hi {name}, your favorite sport is {sport}"); 
+        string name = "Roberto";
+        string sport;
+        sport = "Soccer";
 
-// Second Exercise: Numeric formatting 
- 
-// declare Variable
+        // Show messages with interpolation.
 
- decimal number = 1234.56789m;
+        Console.WriteLine($"Hi {name}, your favorite sport is {sport}");
 
-// Show currency and 2 decimals 
+        // Second Exercise: Numeric formatting 
 
-Console.WriteLine("as currency:  " + number.ToString("C"));
-Console.WriteLine("With 2 decimals:  " + number.ToString("F2"); 
+        // declare Variable
+
+        decimal number = 1234.56789m;
+
+        // Show currency and 2 decimals 
+
+        Console.WriteLine("as currency:  " + number.ToString("C"));
+        Console.WriteLine("With 2 decimals:  " + number.ToString("F2"));
+
+    }
+}
+
+
+
 
 
