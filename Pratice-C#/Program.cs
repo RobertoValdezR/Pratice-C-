@@ -23,7 +23,7 @@ Console.WriteLine($"El producto de {name} cuesta {precio}$ y solo quedan disponi
 
 // Second Exercise: Rectangle area
 
- /* double width;
+/* double width;
 width = 7;
 double height;
 height = 5;
@@ -32,7 +32,13 @@ double area = width *  height;
 
 Console.WriteLine(area); */
 
- // Third Exercise: Personal Information 
+// Third Exercise: Personal Information 
 
+ /* using System.Globalization;
 
+string name = "Roberto";
+int years = 18;
+string country = "DR";
+
+Console.WriteLine($"Hi i'm {name}, i'm {years} years old and i live in {country}"); */
 
