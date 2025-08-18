@@ -10,8 +10,29 @@ Store the width and height of a rectangle in variables. Calculate the area and p
 Personal info
 Create variables with your name, age, and country. Print them in a single sentence. */
 
-string name = "Marcos";
-double precio = 25.9;
-int cantidad = 12;
+// First Exercise: Product information
 
-Console.Write(name + precio + cantidad);
+/* string name;
+name = "Roberto";
+double precio; 
+precio = 24.99;
+int cantidad;
+   cantidad = 12;
+
+Console.WriteLine($"El producto de {name} cuesta {precio}$ y solo quedan disponibles {cantidad}"); */
+
+// Second Exercise: Rectangle area
+
+ /* double width;
+width = 7;
+double height;
+height = 5;
+
+double area = width *  height;
+
+Console.WriteLine(area); */
+
+ // Third Exercise: Personal Information 
+
+
+
