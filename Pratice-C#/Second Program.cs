@@ -29,3 +29,11 @@ sport = "Soccer";
 
 Console.WriteLine($"Hi {name}, your favorite sport is {sport}"); */
 
+// Second Exercise: Numeric formatting 
+
+/*  decimal number = 1234.56789m;
+
+Console.WriteLine("as currency:  " + number.ToString("C"));
+Console.WriteLine("With 2 decimals:  " + number.ToString("F2"); */
+
+
