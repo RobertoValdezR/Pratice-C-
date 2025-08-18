@@ -14,12 +14,12 @@ Create variables with your name, age, and country. Print them in a single senten
 
 // Declare Variable
 
- string name;
+string name;
 name = "Roberto";
 double precio; 
 precio = 24.99;
 int cantidad;
-   cantidad = 12;
+cantidad = 12;
 
 // Show messages with interpolation in String
 
@@ -29,7 +29,7 @@ Console.WriteLine($"El producto de {name} cuesta {precio}$ y solo quedan disponi
  
 // Declare Variable
 
- double width;
+double width;
 width = 7;
 double height;
 height = 5;
@@ -44,13 +44,13 @@ Console.WriteLine(area);
 
 // Declare Variable
 
-string name = "Roberto";
+string name1 = "Roberto";
 int years = 18;
 string country = "DR";
 
 // Show Messages with interpolation
 
-Console.WriteLine($"Hi i'm {name}, i'm {years} years old and i live in {country}"); 
+Console.WriteLine($"Hi i'm {name1}, i'm {years} years old and i live in {country}"); 
 
 // Store and Retrieve Data Using Literal and Variable Values in C# Success Completed...
 
