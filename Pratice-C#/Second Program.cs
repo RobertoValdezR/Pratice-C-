@@ -23,7 +23,7 @@ Display a small table in console using string formatting */
 //  First Exercise:  String interpolation
 
 // Declare Variable
-using System;
+/* using System;
 
 class SecondProgram
 {
@@ -73,7 +73,7 @@ class SecondProgram
 
 
     }
-}
+}*/
 
 
 
