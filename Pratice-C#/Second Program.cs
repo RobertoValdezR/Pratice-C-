@@ -33,7 +33,7 @@ class SecondProgram
 
         // Declare Variable
 
-      /*  string name = "Roberto";
+        string name = "Roberto";
         string sport;
         sport = "Soccer";
 
@@ -50,7 +50,7 @@ class SecondProgram
         // Show currency and 2 decimals 
 
         Console.WriteLine("as currency:  " + number.ToString("C"));
-        Console.WriteLine("With 2 decimals:  " + number.ToString("F2")); */
+        Console.WriteLine("With 2 decimals:  " + number.ToString("F2")); 
 
         // Third Exercise: Aligned text
 
