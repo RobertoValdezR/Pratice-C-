@@ -23,6 +23,8 @@ Display a small table in console using string formatting */
 //  First Exercise:  String interpolation
 
 // Declare Variable
+using System;
+
 class SecondProgram
 {
     static void Main()
@@ -31,7 +33,7 @@ class SecondProgram
 
         // Declare Variable
 
-        string name = "Roberto";
+      /*  string name = "Roberto";
         string sport;
         sport = "Soccer";
 
@@ -48,7 +50,32 @@ class SecondProgram
         // Show currency and 2 decimals 
 
         Console.WriteLine("as currency:  " + number.ToString("C"));
-        Console.WriteLine("With 2 decimals:  " + number.ToString("F2"));
+        Console.WriteLine("With 2 decimals:  " + number.ToString("F2")); */
+
+        // Third Exercise: Aligned text
+
+        // Declare Variable
+
+        string product = "Product";
+        string product1 = "Apple";
+        string product2 = "Bread";
+        string product3 = "Milk";
+
+        double price1 = 1.50;
+        double price2 = 0.80;
+        double price3 = 2.20;
+
+        // Show the taable of product using the tabulation
+
+        Console.WriteLine("Product\tPrice\n");
+        Console.WriteLine("Apple\t" + price1);
+        Console.WriteLine("Bread\t" + price2);
+        Console.WriteLine("Milk\t" + price3);
+   
+
+
+
+
 
     }
 }
