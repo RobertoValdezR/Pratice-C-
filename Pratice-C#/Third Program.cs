@@ -21,25 +21,36 @@ class Third_Program
 
         // Declare Variable
 
-        /* int num1 = 1;
+        int num1 = 1;
         int num2 = 2;
 
         // Arimetic Operations
         Console.WriteLine(num1 + num2);
         Console.WriteLine(num1 - num2);
         Console.WriteLine(num1 * num2);
-        Console.WriteLine(num1 / num2); */
+        Console.WriteLine(num1 / num2); 
 
         // Second Exercise: Temperature Conversion
 
         // Declare Variable and do operation
 
-        double user = 16;
+         double user = 16;
         double Fahrenheit = (user * 9 / 5) + 32;
 
         // just Show
 
-        Console.WriteLine(Fahrenheit);
+        Console.WriteLine(Fahrenheit); 
+
+        // Third Exercise: Circle Area
+
+        // Declare Variable and do operation
+
+        double radius = 3;
+        double area = Math.PI * Math.Pow(radius, 2);
+
+        // just Show
+
+        Console.WriteLine($"The area of circle with radius {radius} is {area}");
 
     }
 
