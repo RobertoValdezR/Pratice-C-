@@ -55,12 +55,7 @@ class SecondProgram
         // Third Exercise: Aligned text
 
         // Declare Variable
-
-        string product = "Product";
-        string product1 = "Apple";
-        string product2 = "Bread";
-        string product3 = "Milk";
-
+    
         double price1 = 1.50;
         double price2 = 0.80;
         double price3 = 2.20;
