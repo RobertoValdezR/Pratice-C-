@@ -20,10 +20,8 @@ Declare a variable with a decimal number (e.g., 1234.5678). Show the number as c
 Aligned text
 Display a small table in console using string formatting */
 
-//  First Exercise:  String interpolation
 
-// Declare Variable
-/* using System;
+ using System;
 
 class SecondProgram
 {
@@ -66,14 +64,14 @@ class SecondProgram
         Console.WriteLine("Apple\t" + price1);
         Console.WriteLine("Bread\t" + price2);
         Console.WriteLine("Milk\t" + price3);
-   
 
+        // Perform Basic String Formatting in C# Success Completed...
 
 
 
 
     }
-}*/
+}
 
 
 

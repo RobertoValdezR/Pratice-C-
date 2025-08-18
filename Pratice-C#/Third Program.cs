@@ -28,18 +28,18 @@ class Third_Program
         Console.WriteLine(num1 + num2);
         Console.WriteLine(num1 - num2);
         Console.WriteLine(num1 * num2);
-        Console.WriteLine(num1 / num2); 
+        Console.WriteLine(num1 / num2);
 
         // Second Exercise: Temperature Conversion
 
         // Declare Variable and do operation
 
-         double user = 16;
+        double user = 16;
         double Fahrenheit = (user * 9 / 5) + 32;
 
         // just Show
 
-        Console.WriteLine(Fahrenheit); 
+        Console.WriteLine(Fahrenheit);
 
         // Third Exercise: Circle Area
 
@@ -52,6 +52,8 @@ class Third_Program
 
         Console.WriteLine($"The area of circle with radius {radius} is {area}");
 
+
+        //Topic 3: Perform Basic Operations on Numbers in C# Success Completed...
     }
 
 }

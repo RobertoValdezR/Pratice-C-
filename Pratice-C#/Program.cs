@@ -14,7 +14,7 @@ Create variables with your name, age, and country. Print them in a single senten
 
 // Declare Variable
 
-/* string name;
+string name;
 name = "Roberto";
 double precio; 
 precio = 24.99;
@@ -52,5 +52,5 @@ string country = "DR";
 
 Console.WriteLine($"Hi i'm {name1}, i'm {years} years old and i live in {country}"); 
 
-// Store and Retrieve Data Using Literal and Variable Values in C# Success Completed...*/
+// Store and Retrieve Data Using Literal and Variable Values in C# Success Completed...
 
