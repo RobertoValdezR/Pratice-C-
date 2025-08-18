@@ -13,23 +13,34 @@ Ask the user for the radius of a circle and calculate its area with the formula:
 
 
 
-    class Third_Program
-    {
+class Third_Program
+{
     static void Main()
     {
         // First Exercise: Basic arithmetic 
 
         // Declare Variable
 
-        int num1 = 1;
+        /* int num1 = 1;
         int num2 = 2;
 
         // Arimetic Operations
         Console.WriteLine(num1 + num2);
         Console.WriteLine(num1 - num2);
         Console.WriteLine(num1 * num2);
-        Console.WriteLine(num1 / num2);
-        
+        Console.WriteLine(num1 / num2); */
+
+        // Second Exercise: Temperature Conversion
+
+        // Declare Variable and do operation
+
+        double user = 16;
+        double Fahrenheit = (user * 9 / 5) + 32;
+
+        // just Show
+
+        Console.WriteLine(Fahrenheit);
+
     }
 
 }
